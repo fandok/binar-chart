@@ -1,5 +1,8 @@
+// import BarComponent from "./Bar";
+import LineComponent from "./Line";
+
 const App = () => {
-  return <div>App</div>;
+  return <LineComponent />;
 };
 
 export default App;
